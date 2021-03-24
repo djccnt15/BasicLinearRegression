@@ -1,2 +1,2 @@
-# BasicLinearRegression
-practicing basic linear regression with python coding
+### BasicLinearRegression
+writing basic linear regression code with python

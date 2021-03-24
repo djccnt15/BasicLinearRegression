@@ -1,6 +1,6 @@
 ### Question
 1. read the data.txt and define first column as t, second column as v, third column as e.
-2. creat _python_ def LineFit(x, y) which defines <img src=formula/LineFit.png> following images below.
+2. creat _python_ def LineFit(x, y) which defines <img src=formula/LineFit.png> following formulas below.
 
     * <img src=formula/x_hat.png>
     * <img src=formula/y_hat.png>

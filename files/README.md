@@ -7,5 +7,5 @@
     * <img src=formula/weight.png>
     * <img src=formula/bias.png>
 
-3. in case of <img src=formula/question.png> find values of <img src=formula/v0.png>, <img src=formula/g.png>.
+3. in case of <img src=formula/question.png>, find values of <img src=formula/v0.png>, <img src=formula/g.png>.
 4. plotting linear regression of t and v.
